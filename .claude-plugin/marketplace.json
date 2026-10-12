@@ -1,0 +1,14 @@
+{
+  "name": "ndu-kurs",
+  "owner": {
+    "name": "Markus Doppelreiter"
+  },
+  "description": "Kurs-Plugin für „Programmieren mit AI“ an der NDU",
+  "plugins": [
+    {
+      "name": "ndu",
+      "source": "./plugins/ndu",
+      "description": "Die /ndu-Befehle des Kurses"
+    }
+  ]
+}

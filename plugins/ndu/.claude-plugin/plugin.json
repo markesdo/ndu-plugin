@@ -1,0 +1,10 @@
+{
+  "name": "ndu",
+  "description": "Befehle des Kurses „Programmieren mit AI“ (NDU): /ndu-idee, /ndu-brainstorm, /ndu-linear, /ndu-check, /ndu-review, /ndu-commit, /ndu-explain, /ndu-beratung, /ndu-neu",
+  "author": {
+    "name": "Markus Doppelreiter"
+  },
+  "homepage": "https://ndu.datamonkeys.ai",
+  "repository": "https://github.com/markesdo/ndu-plugin",
+  "license": "MIT"
+}
